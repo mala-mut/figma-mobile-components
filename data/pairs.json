@@ -1,4 +1,9 @@
 {
+  "IOS|ButtonView/Primary/Enabled": "ANDROID|ButtonView/Primary/Enabled",
+  "IOS|ButtonView/Secondary/Enabled": "ANDROID|ButtonView/Secondary/Enabled",
+  "IOS|ButtonView/Tertiary/Enabled": "ANDROID|ButtonView/Tertiary/Enabled",
+  "IOS|ChatBar / Default": "ANDROID|ChatBar / Default",
+  "IOS|ChatBar / With Text": "ANDROID|ChatBar / With Text",
   "IOS|Data View / 2 lines / No Icon": "ANDROID|Data View / 2 lines / No Icon",
   "IOS|Data View / 2 lines / No Icon Revert": "ANDROID|Data View / 2 lines / No Icon Revert",
   "IOS|Data View / 1 line / Empty Bg": "ANDROID|Data View / 1 line / Empty Bg",
